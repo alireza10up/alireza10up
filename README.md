@@ -11,6 +11,7 @@
 
 #### 🗿 Framework
 ![laravel](https://img.shields.io/badge/laravel-critical?style=for-the-badge&logo=laravel&logoColor=white)
+![nodejs](https://img.shields.io/badge/nodejs-fffff?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ## 🛰️ Contact Me
 [![Gmail Badge](https://img.shields.io/badge/-toolsalireza10up@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:toolsalireza10up@gmail.com)](mailto:milwad.dev@gmail.com)
