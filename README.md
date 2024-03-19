@@ -1,15 +1,15 @@
-## 👋🏻 Hi Guys
+## Hi there!
 
-### My name is Alireza and I am a web programmer 
+### I am Alireza and I am a programmer who is motivated and eager to learn and grow.
 
-## Skills :
+### Skills :
 
-#### 🧡 Languages
+#### Languages
 ![php](https://img.shields.io/badge/PHP-3178C6?style=for-the-badge&logo=php&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![python](https://img.shields.io/badge/Python-3d69a6?style=for-the-badge&logo=python&logoColor=white)
 
-#### 🗿 Framework
+#### Framework & Tools
 ![laravel](https://img.shields.io/badge/laravel-critical?style=for-the-badge&logo=laravel&logoColor=white)
 ![nodejs](https://img.shields.io/badge/nodejs-fffff?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
