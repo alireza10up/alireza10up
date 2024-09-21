@@ -15,7 +15,7 @@
 
 ## Contact Me
 [![Site Badge](https://img.shields.io/badge/-alireza10up.ir-FF5200?style=flat&logo=steelseries&logoColor=white&link=https://alireza10up.ir)](https://alireza10up.ir)
-[![Gmail Badge](https://img.shields.io/badge/-toolsalireza10up@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:toolsalireza10up@gmail.com)](mailto:milwad.dev@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-toolsalireza10up@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:toolsalireza10up@gmail.com)](mailto:toolsalireza10up@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white&link=https://t.me/milwad84dev/)](https://t.me/alireza10up/)
 ## 
 <img src="https://komarev.com/ghpvc/?username=alireza10up" />
