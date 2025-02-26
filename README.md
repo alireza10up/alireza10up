@@ -12,6 +12,7 @@
 #### Framework & Tools
 ![laravel](https://img.shields.io/badge/laravel-critical?style=flat&logo=laravel&logoColor=white)
 ![nodejs](https://img.shields.io/badge/nodejs-fffff?style=flat&logo=nodedotjs&logoColor=white)
+![nestjs](https://img.shields.io/badge/nestjs-ff0000?style=flat&logo=nestjs&logoColor=white)
 
 ## Contact Me
 [![Site Badge](https://img.shields.io/badge/-alireza10up.ir-FF5200?style=flat&logo=steelseries&logoColor=white&link=https://alireza10up.ir)](https://alireza10up.ir)
