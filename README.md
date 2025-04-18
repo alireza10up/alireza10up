@@ -42,19 +42,24 @@ status: █▓▒░ signals detected from Aylero mainframe...
   ```
 </details>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alireza10up&style=flat-square&color=orange" alt="Profile views"/>
-</p>
-
+<!--
 <p align="center">  
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36FFC6&center=true&width=600&lines=Welcome+to+the+Mainframe.;Initializing+Aylero...;Scanning+for+new+opportunities.;Code+is+the+real+reality."/>
 </p>
+-->
 
+---
 
 <p align="center">
 
   ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=alireza10up&style=flat-square&color=orange" alt="Profile views"/>
 </p>
 
 <!--
