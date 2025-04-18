@@ -1,22 +1,62 @@
-## Hi there!
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF5200&center=true&vCenter=true&width=600&lines=The+Code+Chose+Me...;Signals+decoded+in+the+neon+dark.;Analyzing+patterns...;Entrepreneur+or+just+a+glitch%3F;Access+Granted...;Aylero+protocol+initiated.;Who+am+I%3F+Just+a+ghost+in+the+machine."/>
+</p>
 
-### I am Alireza and I am a programmer who is motivated and eager to learn and grow.
+---
 
-## Skills :
+<div align="center">
+  <img src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" width="320" alt="matrix" />
+</div>
 
-#### Languages
-![php](https://img.shields.io/badge/PHP-3178C6?style=flat&logo=php&logoColor=white)
-![javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![python](https://img.shields.io/badge/Python-3d69a6?style=flat&logo=python&logoColor=white)
+---
 
-#### Framework & Tools
-![laravel](https://img.shields.io/badge/laravel-critical?style=flat&logo=laravel&logoColor=white)
-![nodejs](https://img.shields.io/badge/nodejs-fffff?style=flat&logo=nodedotjs&logoColor=white)
-![nestjs](https://img.shields.io/badge/nestjs-ff0000?style=flat&logo=nestjs&logoColor=white)
+```bash
+[10up@matrix ~]$ whoami
+alireza // system identity: undefined
+```
 
-## Contact Me
-[![Site Badge](https://img.shields.io/badge/-alireza10up.ir-FF5200?style=flat&logo=steelseries&logoColor=white&link=https://alireza10up.ir)](https://alireza10up.ir)
-[![Gmail Badge](https://img.shields.io/badge/-toolsalireza10up@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:toolsalireza10up@gmail.com)](mailto:toolsalireza10up@gmail.com)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white&link=https://t.me/milwad84dev/)](https://t.me/alireza10up/)
-## 
-<img src="https://komarev.com/ghpvc/?username=alireza10up" />
+```bash
+[10up@matrix ~]$ skills --list
+[ Coding, Analysis, Startup, Disruption, PHP, JavaScript, Python, Laravel, NodeJS, NestJS, Docker, Linux, Git, ... ]
+```
+
+```bash
+[10up@matrix ~]$ connect --stealth
+site: https://alireza10up.ir
+mail: toolsalireza10up@gmail.com
+telegram: @alireza10up
+status: █▓▒░ signals detected from Aylero mainframe...
+```
+
+<details>
+  <summary>🕶️ System Log</summary>
+
+  ```bash
+  [SYSTEM] Boot sequence initiated...
+  [SYSTEM] Injecting code into the matrix...
+  [SYSTEM] Pattern analysis: ACTIVE
+  [SYSTEM] Startup routines: ENABLED
+  [SYSTEM] [aylero] Protocol running in background...
+  [WARNING] Identity obfuscated.
+  [INFO] There’s always more beneath the surface.
+  ```
+</details>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=alireza10up&style=flat-square&color=orange" alt="Profile views"/>
+</p>
+
+<p align="center">  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36FFC6&center=true&width=600&lines=Welcome+to+the+Mainframe.;Initializing+Aylero...;Scanning+for+new+opportunities.;Code+is+the+real+reality."/>
+</p>
+
+
+<p align="center">
+
+  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</p>
+
+<!--
+███▓▒░ The true logic runs behind the neon. Startup mode: ON. Aylero never sleeps. ░▒▓███
+-->
